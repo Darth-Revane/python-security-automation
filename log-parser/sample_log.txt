@@ -1,0 +1,10 @@
+2026-09-28 10:01:14 INFO User harki successfully logged in from 192.168.1.10
+2026-09-28 10:03:22 WARNING Failed login attempt for user admin from 192.168.1.25
+2026-09-28 10:03:28 WARNING Failed login attempt for user admin from 192.168.1.25
+2026-09-28 10:03:35 WARNING Failed login attempt for user admin from 192.168.1.25
+2026-09-28 10:05:41 INFO User student successfully logged in from 192.168.1.15
+2026-09-28 10:07:03 WARNING Failed login attempt for user root from 10.0.0.8
+2026-09-28 10:07:09 WARNING Failed login attempt for user root from 10.0.0.8
+2026-09-28 10:07:16 WARNING Failed login attempt for user root from 10.0.0.8
+2026-09-28 10:07:22 WARNING Failed login attempt for user root from 10.0.0.8
+2026-09-28 10:09:55 INFO User admin successfully logged in from 192.168.1.25
