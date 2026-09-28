@@ -39,4 +39,4 @@ cd ioc-lookup
 python ioc_lookup.py
 ```
 
-Enter a public IP address or a SHA-256 hash when prompted. You’ll also need a VirusTotal API key. Enter the key at the prompt; **do not put it in the code or upload it to GitHub**.
+Enter a public IP address or SHA-256 hash when prompted. The tool will ask for your VirusTotal API key when it runs. Keep your key private.
